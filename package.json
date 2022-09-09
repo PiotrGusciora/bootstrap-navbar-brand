@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-navbar-brand",
+  "version": "1.0.0",
+  "description": "Responsive Navbar brand built with Bootstrap 5. Examples of responsive navbar brands include the image, the icon, in center or a background color.",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrGusciora/bootstrap-navbar-brand.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-navbar-brand",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrGusciora/bootstrap-navbar-brand/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/navbar-brand/"
+}
